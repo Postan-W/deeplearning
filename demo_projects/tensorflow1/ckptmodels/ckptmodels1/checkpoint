@@ -1,0 +1,2 @@
+model_checkpoint_path: "standard_process_classification2.ckpt"
+all_model_checkpoint_paths: "standard_process_classification2.ckpt"

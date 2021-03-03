@@ -1,0 +1,6 @@
+2021-01-04 10:22:29,167 - __main__ - INFO - Start print log
+2021-01-04 10:22:29,167 - __main__ - WARNING - Something maybe fail.
+2021-01-04 10:22:29,167 - __main__ - INFO - Finish
+2021-01-04 14:20:14,229 - __main__ - INFO - Start print log
+2021-01-04 14:20:14,229 - __main__ - WARNING - Something maybe fail.
+2021-01-04 14:20:14,229 - __main__ - INFO - Finish
