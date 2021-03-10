@@ -26,7 +26,6 @@ optimizer = tf.train.GradientDescentOptimizer(learning_rate=learning_rate).minim
 
 # 初始化变量
 init = tf.global_variables_initializer()
-
 epochs = 10
 display_step = 2
 """
